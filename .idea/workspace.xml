@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4c41b8c-5ca0-4fae-8ea7-65fa37294bd7" name="Changes" comment="Adiciona configuração de ambiente na branch develop">
-      <change afterPath="$PROJECT_DIR$/LoginFeature.java" afterDir="false" />
+    <list default="true" id="d4c41b8c-5ca0-4fae-8ea7-65fa37294bd7" name="Changes" comment="feat(login): criação inicial da classe de login">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "melodiasmelo"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/melodiasmelo/-IQS_GitFlow_Teste.git",
@@ -84,7 +90,7 @@
       <updated>1762215941042</updated>
       <workItem from="1762215943308" duration="318000" />
       <workItem from="1762216280076" duration="928000" />
-      <workItem from="1762217237906" duration="333000" />
+      <workItem from="1762217237906" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="Adiciona configuração de ambiente na branch develop">
       <option name="closed" value="true" />
@@ -102,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762217288242</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat(login): criação inicial da classe de login">
+      <option name="closed" value="true" />
+      <created>1762217592781</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762217592781</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ambiente configurado com develop" />
     <MESSAGE value="Adiciona configuração de ambiente na branch develop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adiciona configuração de ambiente na branch develop" />
+    <MESSAGE value="feat(login): criação inicial da classe de login" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(login): criação inicial da classe de login" />
   </component>
 </project>
