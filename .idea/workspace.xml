@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4c41b8c-5ca0-4fae-8ea7-65fa37294bd7" name="Changes" comment="Adiciona configuração de ambiente na branch develop" />
+    <list default="true" id="d4c41b8c-5ca0-4fae-8ea7-65fa37294bd7" name="Changes" comment="Adiciona configuração de ambiente na branch develop">
+      <change afterPath="$PROJECT_DIR$/LoginFeature.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -18,11 +27,17 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/melodiasmelo/-IQS_GitFlow_Teste.git",
+    "accountId": "dceae7a0-cc74-4cc0-9730-76e86000b3c8"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -42,12 +57,13 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "feature/login",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,6 +84,7 @@
       <updated>1762215941042</updated>
       <workItem from="1762215943308" duration="318000" />
       <workItem from="1762216280076" duration="928000" />
+      <workItem from="1762217237906" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="Adiciona configuração de ambiente na branch develop">
       <option name="closed" value="true" />
@@ -77,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762217044550</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adiciona configuração de ambiente na branch develop">
+      <option name="closed" value="true" />
+      <created>1762217288242</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762217288242</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +119,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="feature/login" />
                       </list>
                     </value>
                   </entry>
